@@ -13,7 +13,7 @@ A simple, clean login & signup application with **MongoDB**, **Google OAuth**, *
 - Email & password signup / login
 - Google OAuth 2.0 login
 - Session-based authentication (stored in MongoDB)
-- Password hashing with bcrypt
+- Password hashin g with bcrypt
 - Clean, responsive UI
 - Docker & Docker Compose setup
 - Jenkins CI/CD pipeline
